@@ -1,0 +1,69 @@
+body {
+	background-color:#6c6c6c;
+	text-align:center;
+}
+
+#wrapper {
+	height: 100px;
+	width: 1245px;
+	
+}
+
+#header {
+	height: 100px;
+	width: 100px;
+}
+
+#main_nav {
+	height: 100px;
+	width: 1245px;
+	background-color: #12345a;
+	position: absolute;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 175px;
+}
+
+#main_nav li {
+	display: inline-block;
+	width: 130px;
+	text-align: center;
+}
+
+#main_nav a {
+	text-decoration: none;
+	color: white;
+}
+
+#main_nav a:hover {
+	font-weight: bold;
+	color: red;
+}
+
+#main_content {
+	margin-top: 300px;
+
+}
+
+#footer {
+	height: 110px;
+	width: 1245px;
+	background-color: #12345a;
+	position: absolute;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 300px;
+	color: white;
+	
+}
+
+#pass1 {
+	float: left;
+	margin-left: 100px;
+	
+}
+
+#pass2 {
+	float: right;
+	margin-right: 100px;
+}
